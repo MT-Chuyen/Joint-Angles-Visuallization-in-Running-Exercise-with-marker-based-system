@@ -22,6 +22,7 @@ This project automates the analysis of running biomechanics by measuring joint a
 
 *   The left leg has one similar to that.
 
+After the code finishes running, it will generate 36 sets of graphs, of 12 angles.
 ## Project Documentation
 
 This project is accompanied by two documents that provide different levels of detail:
