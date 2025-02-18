@@ -15,6 +15,9 @@ This project automates the analysis of running biomechanics by measuring joint a
 
 ![Project Logo](AnkleAngles_X.png)
 
+![Project Logo](AnkleAngles_X_R.png)
+![Project Logo](AnkleAngles_X_L.png)
+
 ## Project Documentation
 
 This project is accompanied by two documents that provide different levels of detail:
