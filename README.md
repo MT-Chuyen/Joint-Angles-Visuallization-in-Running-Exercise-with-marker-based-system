@@ -13,10 +13,14 @@ This project automates the analysis of running biomechanics by measuring joint a
 *   **Statistical Analysis:** Calculates average angle trajectories and standard deviations.
 *   **Data Visualization:** Generates plots of joint angles over the running cycle.
 
+## Output
+*   Agnle Angle in cycle.
 ![Project Logo](AnkleAngles_X.png)
 
+*   Agnle Angle of Right Led before average, where each line stands for one cycle, Will create the blue line in the main graph
 ![Project Logo](AnkleAngles_X_R.png)
-![Project Logo](AnkleAngles_X_L.png)
+
+*   The left leg has one similar to that.
 
 ## Project Documentation
 
