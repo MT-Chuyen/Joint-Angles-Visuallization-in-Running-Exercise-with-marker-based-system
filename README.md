@@ -13,6 +13,8 @@ This project automates the analysis of running biomechanics by measuring joint a
 *   **Statistical Analysis:** Calculates average angle trajectories and standard deviations.
 *   **Data Visualization:** Generates plots of joint angles over the running cycle.
 
+![Project Logo](images/logo.png)
+
 ## Project Documentation
 
 This project is accompanied by two documents that provide different levels of detail:
