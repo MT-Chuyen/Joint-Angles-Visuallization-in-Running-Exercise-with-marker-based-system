@@ -1,6 +1,6 @@
 # Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system
 
-[![Example Angle Plot](link_to_example_plot_image.png)](link_to_github_repository)
+
 
 This project automates the analysis of running biomechanics by measuring joint angles (knee, pelvis, hip, ankle) during a running cycle. It synchronizes data from the MR3 plantar pressure system and the Nexus motion capture system to provide insights into running performance and potential injury risks. The code processes plantar pressure data to define running cycles and then maps angle data from motion capture to those cycles, handling variability in cycle length and segmented input files.
 
