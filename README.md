@@ -13,12 +13,20 @@ This project automates the analysis of running biomechanics by measuring joint a
 *   **Statistical Analysis:** Calculates average angle trajectories and standard deviations.
 *   **Data Visualization:** Generates plots of joint angles over the running cycle.
 
-![Project Logo](images/logo.png)
+## Output
+*   Agnle Angle in cycle.
+![Project Logo](AnkleAngles_X.png)
 
+*   Agnle Angle of Right Led before average, where each line stands for one cycle, Will create the blue line in the main graph
+![Project Logo](AnkleAngles_X_R.png)
+
+*   The left leg has one similar to that.
+
+After the code finishes running, it will generate 36 sets of graphs, of 12 angles.
 ## Project Documentation
 
 This project is accompanied by two documents that provide different levels of detail:
 
-*   **Project Detail.pdf:**  _This document provides a comprehensive overview of the project, detailing the problem statement, methodology, and implementation. It includes in-depth explanations of data processing algorithms, system architecture, and challenges overcome during development. This is the primary resource for understanding the technical aspects of the project._ [Project Detail.pdf](https://mt-chuyen.github.io/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system/Project_Detail.pdf)
+*   **Project Detail.pdf:**  _This document provides a comprehensive overview of the project, detailing the problem statement, methodology, and implementation. It includes in-depth explanations of data processing algorithms, system architecture, and challenges overcome during development. This is the primary resource for understanding the technical aspects of the project._ [Project Detail.pdf](https://mt-chuyen.github.io/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system/Project%20Detail.pdf)
 
 *   **Slide.pdf:** _This presentation offers a visual walkthrough of the project, showcasing key concepts, results, and system workflow. It is designed to provide a more accessible and intuitive introduction to the project for readers who prefer a high-level overview with graphical representations of data and processes._ [Slide.pdf](https://mt-chuyen.github.io/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system/Slide.pdf)
