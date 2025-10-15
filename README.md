@@ -31,7 +31,7 @@ This project is accompanied by two documents that provide different levels of de
 
 *   **Slide.pdf:** _This presentation offers a visual walkthrough of the project, showcasing key concepts, results, and system workflow. It is designed to provide a more accessible and intuitive introduction to the project for readers who prefer a high-level overview with graphical representations of data and processes._ [Slide.pdf](https://mt-chuyen.github.io/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system/Slide.pdf)
 
-[Link_to_Github](https://github.com/MT-Chuyen/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system/tree/main/Project%20Code)
+[CODE HERE](https://github.com/MT-Chuyen/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system/tree/main/Project%20Code)
 ## Let's take a look at some visuals of the lab.
 *   A system of 24 cameras around the ceiling will capture 3D data of each marker and the foot pressure recording plate will simultaneously determine the movement cycle.
 
