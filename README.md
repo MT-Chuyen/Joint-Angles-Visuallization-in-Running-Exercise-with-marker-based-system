@@ -35,8 +35,8 @@ This project is accompanied by two documents that provide different levels of de
 ## Let's take a look at some visuals of the lab.
 *   A system of 24 cameras around the ceiling will capture 3D data of each marker and the foot pressure recording plate will simultaneously determine the movement cycle.
 
-![Project Logo](screen.png)
+![Project Logo](screen.jpg)
 
-![Project Logo](overview.png)
+![Project Logo](overview.jpg)
 
 ![Project Logo](2data.png)
