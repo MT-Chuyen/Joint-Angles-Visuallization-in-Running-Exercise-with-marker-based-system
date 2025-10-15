@@ -36,3 +36,4 @@ This project is accompanied by two documents that provide different levels of de
 *   A system of 24 cameras around the ceiling will capture 3D data of each marker.
 ![Project Logo](screen.png)
 ![Project Logo](overview.png)
+![Project Logo](2data.png)
