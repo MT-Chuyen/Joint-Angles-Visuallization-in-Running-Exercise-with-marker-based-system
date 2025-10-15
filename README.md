@@ -33,7 +33,8 @@ This project is accompanied by two documents that provide different levels of de
 
 [Link_to_Github](https://github.com/MT-Chuyen/Joint-Angles-Visuallization-in-Running-Exercise-with-marker-based-system)
 ## Let's take a look at some visuals of the lab.
-*   A system of 24 cameras around the ceiling will capture 3D data of each marker and the foot pressure recording plate will simultaneously determine the movement cycle..
+*   A system of 24 cameras around the ceiling will capture 3D data of each marker and the foot pressure recording plate will simultaneously determine the movement cycle.
+
 ![Project Logo](screen.png)
 
 ![Project Logo](overview.png)
